@@ -286,7 +286,7 @@ footer{
     }
    
     .headingimg{
-        height:10vh;
+        height:auto;
         width:30%;
         float:right;
     }
